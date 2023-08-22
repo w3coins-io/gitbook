@@ -1,2 +1,47 @@
 # Snapshot & State sync
 
+## Snapshot
+
+Automatic snapshots occur every 24 hours, commencing at 01:45 UTC.
+
+### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/iris-mainnet/iris\_snapsot\_latest.tar.lz4)
+
+## State sync
+
+**Stop the node**
+
+```
+sudo systemctl stop iris
+```
+
+**Reset the node**
+
+```
+cp $HOME/.iris/data/priv_validator_state.json $HOME/.iris/priv_validator_state.json.backup
+iris tendermint unsafe-reset-all --home $HOME/.iris
+```
+
+**Get and configure the state sync information**
+
+```
+SNAP_RPC="https://irisnet-rpc.w3coins.io"
+LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height);
+BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000));
+TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash) 
+echo $LATEST_HEIGHT $BLOCK_HEIGHT $TRUST_HASH && sleep 2
+sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ;
+s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\"$SNAP_RPC,$SNAP_RPC\"| ;
+s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ;
+s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ;
+s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.iris/config/config.toml
+```
+
+```
+mv $HOME/.iris/priv_validator_state.json.backup $HOME/.iris/data/priv_validator_state.json
+```
+
+**Restart the node**
+
+```
+sudo systemctl restart iris && sudo journalctl -u iris -f
+```
