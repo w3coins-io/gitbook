@@ -1,1 +1,47 @@
 
+
+## Snapshot
+
+Automatic snapshots occur every 24 hours, commencing at 04:30 UTC.
+
+### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/agoric-mainnet/agoric\_snapsot\_latest.tar.lz4)
+
+## State sync
+
+**Stop the node**
+
+```
+sudo systemctl stop agd
+```
+
+**Reset the node**
+
+```
+cp $HOME/.agoric/data/priv_validator_state.json $HOME/.agoric/priv_validator_state.json.backup
+agd tendermint unsafe-reset-all --home $HOME/.agoric
+```
+
+**Get and configure the state sync information**
+
+```
+SNAP_RPC="https://empower-testnet-rpc.w3coins.io:443"
+LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height);
+BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000));
+TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash) 
+echo $LATEST_HEIGHT $BLOCK_HEIGHT $TRUST_HASH && sleep 2
+sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ;
+s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\"$SNAP_RPC,$SNAP_RPC\"| ;
+s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ;
+s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ;
+s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.agoric/config/config.toml
+```
+
+```
+mv $HOME/.agoric/priv_validator_state.json.backup $HOME/.agoric/data/priv_validator_state.json
+```
+
+**Restart the node**
+
+```
+sudo systemctl restart agd && sudo journalctl -u agd -f
+```
