@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Cosmos hub](README.md)
+  * [Snapshot & State sync](cosmos/snapshot-and-state-sync.md)
 * [Agoric](agoric/README.md)
   * [Validator Setup](agoric/validator-setup.md)
   * [Validator Setup Ru](agoric/validator-setup-ru.md)
