@@ -6,6 +6,7 @@
   * [Snapshot & State sync](mainnet/cosmos/snapshot-and-state-sync.md)
 * [Agoric](mainnet/agoric/README.md)
   * [Validator Setup](mainnet/agoric/validator-setup.md)
+  * [Snapshot & State sync](mainnet/agoric/snapshot-and-state-sync.md)
   * [Validator Setup Ru](mainnet/agoric/validator-setup-ru.md)
 * [Akash](mainnet/akash/README.md)
   * [Snapshot & State sync](mainnet/akash/snapshot-and-state-sync.md)
