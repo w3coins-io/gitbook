@@ -531,3 +531,132 @@ hour: 9
  16 files changed, 147 insertions(+), 14 deletions(-)
 To github.com:w3coins-io/gitbook.git
    0227d0f..6074b30  main -> main
+Agent pid 1659332
+Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
+Already up to date.
+/root/gitbook/mainnet/agoric
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2916      0 --:--:-- --:--:-- --:--:--  2927
+Get height
+height: 11327214
+Get time
+latest_block_time: 2023-08-23T04:30:01.73762041Z
+hour: 8
+/root/gitbook/mainnet/akash
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   565  100   565    0     0   2518      0 --:--:-- --:--:-- --:--:--  2522
+Get height
+height: 12481762
+Get time
+latest_block_time: 2023-08-23T00:30:45.884284147Z
+hour: 12
+/root/gitbook/mainnet/archway
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3242      0 --:--:-- --:--:-- --:--:--  3261
+Get height
+height: 735250
+Get time
+latest_block_time: 2023-08-23T01:15:25.523798221Z
+hour: 11
+/root/gitbook/mainnet/band
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   565  100   565    0     0   2771      0 --:--:-- --:--:-- --:--:--  2783
+Get height
+height: 20378013
+Get time
+latest_block_time: 2023-08-23T00:47:38.079915923Z
+hour: 12
+/root/gitbook/mainnet/cosmos
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   565  100   565    0     0   2402      0 --:--:-- --:--:-- --:--:--  2404
+Get height
+height: 16684218
+Get time
+latest_block_time: 2023-08-23T00:00:56.463708403Z
+hour: 12
+/root/gitbook/mainnet/empower
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2638      0 --:--:-- --:--:-- --:--:--  2646
+Get height
+height: 864491
+Get time
+latest_block_time: 2023-08-23T06:45:15.533762623Z
+hour: 6
+/root/gitbook/mainnet/fetch.ai
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   565  100   565    0     0   3045      0 --:--:-- --:--:-- --:--:--  3054
+Get height
+height: 12575682
+Get time
+latest_block_time: 2023-08-23T06:30:15.035447532Z
+hour: 6
+/root/gitbook/mainnet/injective
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   564  100   564    0     0   2459      0 --:--:-- --:--:-- --:--:--  2452
+Get height
+height: 42689886
+Get time
+latest_block_time: 2023-08-23T04:01:44.677644869Z
+hour: 8
+/root/gitbook/mainnet/irisnet
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   565  100   565    0     0   2604      0 --:--:-- --:--:-- --:--:--  2615
+Get height
+height: 21283329
+Get time
+latest_block_time: 2023-08-23T01:45:46.033713034Z
+hour: 11
+/root/gitbook/mainnet/kava
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2442      0 --:--:-- --:--:-- --:--:--  2443
+Get height
+height: 6168458
+Get time
+latest_block_time: 2023-08-23T00:30:12.138241191Z
+hour: 12
+/root/gitbook/mainnet/nolus
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2295      0 --:--:-- --:--:-- --:--:--  2297
+Get height
+height: 1368106
+Get time
+latest_block_time: 2023-08-23T03:45:15.276662508Z
+hour: 9
+/root/gitbook/mainnet/regen
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   565  100   565    0     0   2724      0 --:--:-- --:--:-- --:--:--  2716
+Get height
+height: 12111060
+Get time
+latest_block_time: 2023-08-23T04:45:14.381790672Z
+hour: 8
+/root/gitbook/mainnet/stride
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2227      0 --:--:-- --:--:-- --:--:--  2234
+Get height
+height: 5102084
+Get time
+latest_block_time: 2023-08-23T08:31:00.711958015Z
+hour: 4
+/root/gitbook/mainnet/umee
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3345      0 --:--:-- --:--:-- --:--:--  3331
+Get height
+height: 8007731
+Get time
+latest_block_time: 2023-08-23T02:00:40.978053249Z
+hour: 10
