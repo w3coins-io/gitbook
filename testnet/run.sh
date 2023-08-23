@@ -8,8 +8,8 @@ work_dir_path='/root/gitbook'
 for folder in *; do
 
     if [ -d "$folder" ]; then
-       echo $work_dir_path/mainnet/$folder
-       cd $work_dir_path/mainnet/$folder && ./change.sh $index_str && cd ../
+       echo $work_dir_path/testnet/$folder
+       cd $work_dir_path/testnet/$folder && ./change.sh $index_str && cd ../
     fi
 
 done
