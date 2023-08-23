@@ -1,5 +1,5 @@
 ---
-description: Agoric NodeM
+description: Agoric Node
 ---
 
 # Validator Setup
