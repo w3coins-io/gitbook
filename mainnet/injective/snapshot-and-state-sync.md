@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 04:00 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/injective-mainnet/injective\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   42689886   |  2 hours | [Snapshot (7.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/injective-mainnet/injective_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

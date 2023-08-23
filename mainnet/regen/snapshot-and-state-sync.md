@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 04:45 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/regen-mainnet/regen\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   12111060   |  1 hours | [Snapshot (0.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/regen-mainnet/regen_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

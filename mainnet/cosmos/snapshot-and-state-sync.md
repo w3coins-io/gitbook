@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 00:00 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/cosmos-mainnet/cosmos\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   16684218   |  6 hours | [Snapshot (5.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/cosmos-mainnet/cosmos_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

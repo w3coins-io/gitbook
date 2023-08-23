@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 00:30 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/kava-mainnet/kava\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   6168458   |  5 hours | [Snapshot (9.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/kava-mainnet/kava_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

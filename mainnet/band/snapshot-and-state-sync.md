@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 00:45 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/band-mainnet/band\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   20378013   |  5 hours | [Snapshot (11.0 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/band-mainnet/band_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

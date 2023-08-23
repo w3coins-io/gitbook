@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 06:45 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/empower-mainnet/empower\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   848981   |  23 hours | [Snapshot (0.3 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/empower-mainnet/empower_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

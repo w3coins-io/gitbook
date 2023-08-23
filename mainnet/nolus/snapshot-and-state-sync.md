@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 03:45 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/nolus-mainnet/nolus\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   1368106   |  2 hours | [Snapshot (0.2 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/nolus-mainnet/nolus_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

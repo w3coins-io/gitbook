@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 02:00 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/umee-mainnet/umee\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   8007731   |  4 hours | [Snapshot (1.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/umee-mainnet/umee_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

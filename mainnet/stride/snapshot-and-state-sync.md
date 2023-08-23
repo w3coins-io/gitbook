@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 08:30 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/stride-mainnet/stride\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   5087229   |  21 hours | [Snapshot (2.4 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/stride-mainnet/stride_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

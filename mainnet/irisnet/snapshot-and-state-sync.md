@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-Automatic snapshots occur every 24 hours, commencing at 01:45 UTC.
-
-### [Download the latest snapshot.](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/iris-mainnet/iris\_snapsot\_latest.tar.lz4)
+|     Block   |     Age     |   Download  |
+| ----------- | ----------- | ----------- |
+|   21283329   |  4 hours | [Snapshot (1.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/iris-mainnet/iris_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
