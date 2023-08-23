@@ -22,7 +22,7 @@ time_hour=$((time_difference / 3600))
 
 echo "hour: $time_hour"
 
-changed_str="|   $height   |  $time_hour hourss | [Snapshot ($(printf '%.1f' $memory) GB)]($snap_link)  |"
+changed_str="|   $height   |  $time_hour hours | [Snapshot ($(printf '%.1f' $memory) GB)]($snap_link)  |"
 
 
 sed -i "$index_str>.*>$changed_str>" snapshot-and-state-sync.md
