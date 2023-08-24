@@ -1,1677 +1,0 @@
-Agent pid 1655596
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2795      0 --:--:-- --:--:-- --:--:--  2805
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 5
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2544      0 --:--:-- --:--:-- --:--:--  2547
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 4
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2830      0 --:--:-- --:--:-- --:--:--  2843
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 2
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2680      0 --:--:-- --:--:-- --:--:--  2684
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 7
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2715      0 --:--:-- --:--:-- --:--:--  2728
-Get height
-height: 6177134
-Get time
-latest_block_time: 2023-08-22T08:59:57.32428375Z
-hour: 24
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2636      0 --:--:-- --:--:-- --:--:--  2638
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 7
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2596      0 --:--:-- --:--:-- --:--:--  2606
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 3
-[main 40dddde] updates snapshot mainnet
- 9 files changed, 78 insertions(+), 7 deletions(-)
- create mode 100644 logs/testnet
-To github.com:w3coins-io/gitbook.git
-   c74ce77..40dddde  main -> main
-Agent pid 1656289
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2711      0 --:--:-- --:--:-- --:--:--  2723
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 6
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2420      0 --:--:-- --:--:-- --:--:--  2426
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 5
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2798      0 --:--:-- --:--:-- --:--:--  2800
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 3
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2054      0 --:--:-- --:--:-- --:--:--  2062
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 8
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2773      0 --:--:-- --:--:-- --:--:--  2787
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 1
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2682      0 --:--:-- --:--:-- --:--:--  2688
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 8
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3053      0 --:--:-- --:--:-- --:--:--  3059
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 4
-[main 6e819c4] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   2411285..6e819c4  main -> main
-Agent pid 1657190
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2790      0 --:--:-- --:--:-- --:--:--  2805
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 7
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2547      0 --:--:-- --:--:-- --:--:--  2559
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 6
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2864      0 --:--:-- --:--:-- --:--:--  2872
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 4
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2385      0 --:--:-- --:--:-- --:--:--  2387
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 9
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2714      0 --:--:-- --:--:-- --:--:--  2719
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 2
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2553      0 --:--:-- --:--:-- --:--:--  2554
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 9
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2775      0 --:--:-- --:--:-- --:--:--  2787
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 5
-[main 0227d0f] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   a58d52b..0227d0f  main -> main
-Agent pid 1658427
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2677      0 --:--:-- --:--:-- --:--:--  2684
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 8
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2312      0 --:--:-- --:--:-- --:--:--  2316
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 7
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2512      0 --:--:-- --:--:-- --:--:--  2513
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 5
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2811      0 --:--:-- --:--:-- --:--:--  2819
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 10
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2309      0 --:--:-- --:--:-- --:--:--  2307
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 3
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2856      0 --:--:-- --:--:-- --:--:--  2867
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 10
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2888      0 --:--:-- --:--:-- --:--:--  2887
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 6
-[main 46a2d3a] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   6074b30..46a2d3a  main -> main
-Agent pid 1659637
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2437      0 --:--:-- --:--:-- --:--:--  2439
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 9
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2456      0 --:--:-- --:--:-- --:--:--  2447
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 8
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2382      0 --:--:-- --:--:-- --:--:--  2385
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 6
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2395      0 --:--:-- --:--:-- --:--:--  2387
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 11
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2612      0 --:--:-- --:--:-- --:--:--  2618
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 4
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2491      0 --:--:-- --:--:-- --:--:--  2486
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 11
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2804      0 --:--:-- --:--:-- --:--:--  2815
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 7
-[main 1aae253] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   195bd5e..1aae253  main -> main
-Agent pid 1660260
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2414      0 --:--:-- --:--:-- --:--:--  2407
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 10
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2142      0 --:--:-- --:--:-- --:--:--  2148
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 9
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2480      0 --:--:-- --:--:-- --:--:--  2480
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 7
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2530      0 --:--:-- --:--:-- --:--:--  2538
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 12
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2686      0 --:--:-- --:--:-- --:--:--  2680
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 5
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2867      0 --:--:-- --:--:-- --:--:--  2882
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 12
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2300      0 --:--:-- --:--:-- --:--:--  2297
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 8
-[main 04a1644] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   2e51b18..04a1644  main -> main
-Agent pid 1661779
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3003      0 --:--:-- --:--:-- --:--:--  3016
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 11
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0   563    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3236      0 --:--:-- --:--:-- --:--:--  3235
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 10
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2794      0 --:--:-- --:--:-- --:--:--  2800
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 8
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2562      0 --:--:-- --:--:-- --:--:--  2573
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 13
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3241      0 --:--:-- --:--:-- --:--:--  3254
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 6
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2893      0 --:--:-- --:--:-- --:--:--  2896
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 13
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2557      0 --:--:-- --:--:-- --:--:--  2547
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 9
-[main d1e8e45] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   057e7e6..d1e8e45  main -> main
-Agent pid 1662923
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2710      0 --:--:-- --:--:-- --:--:--  2723
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 12
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2758      0 --:--:-- --:--:-- --:--:--  2773
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 11
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2914      0 --:--:-- --:--:-- --:--:--  2917
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 9
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2936      0 --:--:-- --:--:-- --:--:--  2937
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 14
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3204      0 --:--:-- --:--:-- --:--:--  3217
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 7
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   3332      0 --:--:-- --:--:-- --:--:--  3345
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 14
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3178      0 --:--:-- --:--:-- --:--:--  3180
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 10
-[main 03e1dc1] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   ba6f770..03e1dc1  main -> main
-Agent pid 1663770
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2948      0 --:--:-- --:--:-- --:--:--  2952
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 13
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3014      0 --:--:-- --:--:-- --:--:--  3026
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 12
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3153      0 --:--:-- --:--:-- --:--:--  3145
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 10
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3034      0 --:--:-- --:--:-- --:--:--  3048
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 15
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3404      0 --:--:-- --:--:-- --:--:--  3412
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 8
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   3141      0 --:--:-- --:--:-- --:--:--  3157
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 15
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3252      0 --:--:-- --:--:-- --:--:--  3254
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 11
-[main d8431db] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   5d6464a..d8431db  main -> main
-Agent pid 1664820
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2943      0 --:--:-- --:--:-- --:--:--  2952
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 14
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3170      0 --:--:-- --:--:-- --:--:--  3162
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 13
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3397      0 --:--:-- --:--:-- --:--:--  3412
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 11
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3324      0 --:--:-- --:--:-- --:--:--  3339
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 16
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3061      0 --:--:-- --:--:-- --:--:--  3076
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 9
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   3084      0 --:--:-- --:--:-- --:--:--  3087
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 16
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3225      0 --:--:-- --:--:-- --:--:--  3235
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 12
-[main c0371c1] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   54b4faf..c0371c1  main -> main
-Agent pid 1665537
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3041      0 --:--:-- --:--:-- --:--:--  3048
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 15
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3078      0 --:--:-- --:--:-- --:--:--  3093
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 14
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3578      0 --:--:-- --:--:-- --:--:--  3585
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 12
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3433      0 --:--:-- --:--:-- --:--:--  3420
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 17
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3139      0 --:--:-- --:--:-- --:--:--  3145
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 10
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2986      0 --:--:-- --:--:-- --:--:--  2989
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 17
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3219      0 --:--:-- --:--:-- --:--:--  3235
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 13
-[main d4c2fc7] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   333b5f8..d4c2fc7  main -> main
-Agent pid 1666298
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3118      0 --:--:-- --:--:-- --:--:--  3134
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 16
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2962      0 --:--:-- --:--:-- --:--:--  2963
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 15
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2926      0 --:--:-- --:--:-- --:--:--  2932
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 13
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0   561    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2951      0 --:--:-- --:--:-- --:--:--  2937
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 18
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3212      0 --:--:-- --:--:-- --:--:--  3217
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 11
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2997      0 --:--:-- --:--:-- --:--:--  3005
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 18
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3175      0 --:--:-- --:--:-- --:--:--  3180
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 14
-[main 08bc414] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   a8afa48..08bc414  main -> main
-Agent pid 1667263
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0   561    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3801      0 --:--:-- --:--:-- --:--:--  3790
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 17
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3106      0 --:--:-- --:--:-- --:--:--  3110
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 16
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3221      0 --:--:-- --:--:-- --:--:--  3235
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 14
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3233      0 --:--:-- --:--:-- --:--:--  3242
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 19
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2979      0 --:--:-- --:--:-- --:--:--  2994
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 12
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2617      0 --:--:-- --:--:-- --:--:--  2613
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 19
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3810      0 --:--:-- --:--:-- --:--:--  3829
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 15
-[main 53ed543] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   ff2a6e4..53ed543  main -> main
-Agent pid 1668076
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2890      0 --:--:-- --:--:-- --:--:--  2891
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 18
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3088      0 --:--:-- --:--:-- --:--:--  3093
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 17
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2746      0 --:--:-- --:--:-- --:--:--  2746
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 15
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3165      0 --:--:-- --:--:-- --:--:--  3169
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 20
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2966      0 --:--:-- --:--:-- --:--:--  2978
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 13
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   3838      0 --:--:-- --:--:-- --:--:--  3849
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 20
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3559      0 --:--:-- --:--:-- --:--:--  3563
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 16
-[main 880e04c] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   02a28e3..880e04c  main -> main
-Agent pid 1668966
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3532      0 --:--:-- --:--:-- --:--:--  3550
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 19
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0   563    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3082      0 --:--:-- --:--:-- --:--:--  3076
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 18
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3158      0 --:--:-- --:--:-- --:--:--  3162
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 16
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2984      0 --:--:-- --:--:-- --:--:--  3000
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 21
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3072      0 --:--:-- --:--:-- --:--:--  3076
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 14
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2738      0 --:--:-- --:--:-- --:--:--  2741
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 21
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3216      0 --:--:-- --:--:-- --:--:--  3217
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 17
-[main 7cadcc3] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   867ac47..7cadcc3  main -> main
-Agent pid 1669773
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3227      0 --:--:-- --:--:-- --:--:--  3242
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 20
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3247      0 --:--:-- --:--:-- --:--:--  3254
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 19
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2837      0 --:--:-- --:--:-- --:--:--  2843
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 17
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3350      0 --:--:-- --:--:-- --:--:--  3339
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 22
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3220      0 --:--:-- --:--:-- --:--:--  3235
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 15
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   3154      0 --:--:-- --:--:-- --:--:--  3157
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 22
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3197      0 --:--:-- --:--:-- --:--:--  3198
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 18
-[main e729bc5] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   604291f..e729bc5  main -> main
-Agent pid 1671406
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3030      0 --:--:-- --:--:-- --:--:--  3032
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 21
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3343      0 --:--:-- --:--:-- --:--:--  3351
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 20
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2585      0 --:--:-- --:--:-- --:--:--  2582
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 18
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3016      0 --:--:-- --:--:-- --:--:--  3032
-Get height
-height: 356615
-Get time
-latest_block_time: 2023-08-23T01:29:52.040677028Z
-hour: 23
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3110      0 --:--:-- --:--:-- --:--:--  3127
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 16
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   562    0     0   2728      0 --:--:-- --:--:-- --:--:--  2741
-Get height
-height: 2766125
-Get time
-latest_block_time: 2023-08-23T01:45:37.03251815Z
-hour: 23
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3145      0 --:--:-- --:--:-- --:--:--  3162
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 19
-[main 4797da0] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   c6dad4b..4797da0  main -> main
-Agent pid 1672413
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2922      0 --:--:-- --:--:-- --:--:--  2937
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 22
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0   563    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2805      0 --:--:-- --:--:-- --:--:--  2800
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 21
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2583      0 --:--:-- --:--:-- --:--:--  2594
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 19
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3177      0 --:--:-- --:--:-- --:--:--  3187
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 0
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3047      0 --:--:-- --:--:-- --:--:--  3059
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 17
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3235      0 --:--:-- --:--:-- --:--:--  3254
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 0
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2648      0 --:--:-- --:--:-- --:--:--  2643
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 20
-[main dc832b1] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   779f814..dc832b1  main -> main
-Agent pid 1673258
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3149      0 --:--:-- --:--:-- --:--:--  3151
-Get height
-height: 1037527
-Get time
-latest_block_time: 2023-08-23T03:29:57.92805462Z
-hour: 23
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3035      0 --:--:-- --:--:-- --:--:--  3043
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 22
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2990      0 --:--:-- --:--:-- --:--:--  2978
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 20
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2844      0 --:--:-- --:--:-- --:--:--  2847
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 1
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3203      0 --:--:-- --:--:-- --:--:--  3217
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 18
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3297      0 --:--:-- --:--:-- --:--:--  3311
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 1
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3124      0 --:--:-- --:--:-- --:--:--  3127
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 21
-[main 07310d8] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   b764f1b..07310d8  main -> main
-Agent pid 1674816
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3109      0 --:--:-- --:--:-- --:--:--  3116
-Get height
-height: 1050387
-Get time
-latest_block_time: 2023-08-24T03:29:50.38885819Z
-hour: 0
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3124      0 --:--:-- --:--:-- --:--:--  3127
-Get height
-height: 2923664
-Get time
-latest_block_time: 2023-08-23T05:00:17.861731898Z
-hour: 23
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3205      0 --:--:-- --:--:-- --:--:--  3217
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 21
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   3351      0 --:--:-- --:--:-- --:--:--  3359
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 2
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3205      0 --:--:-- --:--:-- --:--:--  3217
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 19
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3376      0 --:--:-- --:--:-- --:--:--  3391
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 2
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3421      0 --:--:-- --:--:-- --:--:--  3432
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 22
-[main 477604f] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   f624c48..477604f  main -> main
-Agent pid 1675885
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2101      0 --:--:-- --:--:-- --:--:--  2109
-Get height
-height: 1050387
-Get time
-latest_block_time: 2023-08-24T03:29:50.38885819Z
-hour: 1
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100     1  100     1    0     0      4      0 --:--:-- --:--:-- --:--:--     4
-Get height
-height: 
-Get time
-latest_block_time: 
-hour: 7
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2812      0 --:--:-- --:--:-- --:--:--  2815
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 22
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2459      0 --:--:-- --:--:-- --:--:--  2460
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 3
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2840      0 --:--:-- --:--:-- --:--:--  2843
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 20
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2544      0 --:--:-- --:--:-- --:--:--  2547
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 3
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2667      0 --:--:-- --:--:-- --:--:--  2680
-Get height
-height: 3790372
-Get time
-latest_block_time: 2023-08-23T05:30:17.460910134Z
-hour: 23
-[main 83821ef] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   43a05b4..83821ef  main -> main
-Agent pid 1676914
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2083      0 --:--:-- --:--:-- --:--:--  2085
-Get height
-height: 1050387
-Get time
-latest_block_time: 2023-08-24T03:29:50.38885819Z
-hour: 2
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100     1  100     1    0     0      4      0 --:--:-- --:--:-- --:--:--     4
-Get height
-height: 
-Get time
-latest_block_time: 
-hour: 8
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2524      0 --:--:-- --:--:-- --:--:--  2536
-Get height
-height: 1309943
-Get time
-latest_block_time: 2023-08-23T07:00:33.031174899Z
-hour: 23
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2335      0 --:--:-- --:--:-- --:--:--  2327
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 4
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2869      0 --:--:-- --:--:-- --:--:--  2872
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 21
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3083      0 --:--:-- --:--:-- --:--:--  3076
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 4
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2387      0 --:--:-- --:--:-- --:--:--  2395
-Get height
-height: 3805391
-Get time
-latest_block_time: 2023-08-24T05:30:15.994778108Z
-hour: 0
-[main 2981424] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   248f69a..2981424  main -> main
-Agent pid 1677938
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2435      0 --:--:-- --:--:-- --:--:--  2439
-Get height
-height: 1050387
-Get time
-latest_block_time: 2023-08-24T03:29:50.38885819Z
-hour: 3
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100     1  100     1    0     0      5      0 --:--:-- --:--:-- --:--:--     5
-Get height
-height: 
-Get time
-latest_block_time: 
-hour: 9
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   3016      0 --:--:-- --:--:-- --:--:--  3026
-Get height
-height: 1325645
-Get time
-latest_block_time: 2023-08-24T07:00:33.343328888Z
-hour: 0
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2971      0 --:--:-- --:--:-- --:--:--  2984
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 5
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2642      0 --:--:-- --:--:-- --:--:--  2655
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 22
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2912      0 --:--:-- --:--:-- --:--:--  2917
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 5
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2405      0 --:--:-- --:--:-- --:--:--  2416
-Get height
-height: 3805391
-Get time
-latest_block_time: 2023-08-24T05:30:15.994778108Z
-hour: 1
-[main 9b57a0d] updates snapshot mainnet
- 9 files changed, 77 insertions(+), 7 deletions(-)
-To github.com:w3coins-io/gitbook.git
-   b8c9fc7..9b57a0d  main -> main
-Agent pid 1678844
-Identity added: /root/.ssh/id_rsa (root@w3coinsrpc2)
-Already up to date.
-/root/gitbook/testnet/agoric-devnet
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   1964      0 --:--:-- --:--:-- --:--:--  1968
-Get height
-height: 1050387
-Get time
-latest_block_time: 2023-08-24T03:29:50.38885819Z
-hour: 4
-/root/gitbook/testnet/cosmos
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100     1  100     1    0     0      4      0 --:--:-- --:--:-- --:--:--     4
-Get height
-height: 
-Get time
-latest_block_time: 
-hour: 10
-/root/gitbook/testnet/empower
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2718      0 --:--:-- --:--:-- --:--:--  2719
-Get height
-height: 1325645
-Get time
-latest_block_time: 2023-08-24T07:00:33.343328888Z
-hour: 1
-/root/gitbook/testnet/lava-network
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   561    0     0   2914      0 --:--:-- --:--:-- --:--:--  2921
-Get height
-height: 359414
-Get time
-latest_block_time: 2023-08-24T01:29:23.912978123Z
-hour: 6
-/root/gitbook/testnet/nibiru
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2756      0 --:--:-- --:--:-- --:--:--  2746
-Get height
-height: 6212841
-Get time
-latest_block_time: 2023-08-23T08:59:57.314513083Z
-hour: 23
-/root/gitbook/testnet/ojo
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2906      0 --:--:-- --:--:-- --:--:--  2917
-Get height
-height: 2781209
-Get time
-latest_block_time: 2023-08-24T01:45:42.128455234Z
-hour: 6
-/root/gitbook/testnet/okp4
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   563    0     0   2922      0 --:--:-- --:--:-- --:--:--  2917
-Get height
-height: 3805391
-Get time
-latest_block_time: 2023-08-24T05:30:15.994778108Z
-hour: 2
