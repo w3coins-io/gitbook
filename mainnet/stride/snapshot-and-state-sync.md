@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   5176854   |  12 hours | [Snapshot (2.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/stride-mainnet/stride_snapsot_latest.tar.lz4)  |
+|   5176854   |  13 hours | [Snapshot (2.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/stride-mainnet/stride_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

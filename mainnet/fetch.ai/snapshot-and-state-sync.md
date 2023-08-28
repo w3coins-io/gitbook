@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   12648255   |  14 hours | [Snapshot (0.7 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/fetch-mainnet/fetch_snapsot_latest.tar.lz4)  |
+|   12648255   |  15 hours | [Snapshot (0.7 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/fetch-mainnet/fetch_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
