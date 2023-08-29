@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-|     Block   |     Age     |   Download  |
-| ----------- | ----------- | ----------- |
-|   11408650   |  5 hours | [Snapshot (4.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/agoric-mainnet/agoric_snapsot_latest.tar.lz4)  |
+| Block    | Age     | Download                                                                                                                       |
+| -------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 11408650 | 5 hours | [Snapshot (4.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/agoric-mainnet/agoric\_snapsot\_latest.tar.lz4) |
 
 ## State sync
 
@@ -24,7 +24,7 @@ agd tendermint unsafe-reset-all --home $HOME/.agoric
 **Get and configure the state sync information**
 
 ```
-SNAP_RPC="https://empower-testnet-rpc.w3coins.io:443"
+SNAP_RPC="https://agoric-api.w3coins.io"
 LATEST_HEIGHT=$(curl -s $SNAP_RPC/block | jq -r .result.block.header.height);
 BLOCK_HEIGHT=$((LATEST_HEIGHT - 1000));
 TRUST_HASH=$(curl -s "$SNAP_RPC/block?height=$BLOCK_HEIGHT" | jq -r .result.block_id.hash) 
