@@ -2,13 +2,13 @@
 
 **Agoric** is a layer-1 blockchain based on the Cosmos network. The main feature of the project is the ability to create smart contracts with the use of JavaScript. It makes the integration of developers from Web2 to Web3 much easier and expands the ecosystem significantly. Agoric's native token is BLD.
 
-### [Stake now! ](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator\_address=agoricvaloper1tfmed8ueaxrmdsvkecrae6renyxjct8xwdkes5\&referral=true) 9-11% Expected reward rate
+### [Stake now! ](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator\_address=agoricvaloper1tfmed8ueaxrmdsvkecrae6renyxjct8xwdkes5\&referral=true)9-11% Expected reward rate
 
-### [**Auto-Compound**](https://restake.app/agoric/agoricvaloper1tfmed8ueaxrmdsvkecrae6renyxjct8xwdkes5/stake)  **10-12**% Expected reward rate
+### [**Auto-Compound**](https://restake.app/agoric/agoricvaloper1tfmed8ueaxrmdsvkecrae6renyxjct8xwdkes5/stake) **10-12**% Expected reward rate
 
 ## **Chain explorer**
 
-* [https://explorer.w3coins.io/agoric](https://explorer.w3coins.io/agoric)
+* [https://explorer.w3coins.io/Agoric](https://explorer.w3coins.io/Agoric)
 * [https://atomscan.com/agoric](https://atomscan.com/agoric)
 * [https://agoric.explorers.guru/](https://agoric.explorers.guru/)
 
