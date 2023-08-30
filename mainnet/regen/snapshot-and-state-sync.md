@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   12214235   |  5 hours | [Snapshot (0.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/regen-mainnet/regen_snapsot_latest.tar.lz4)  |
+|   12214235   |  6 hours | [Snapshot (0.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/regen-mainnet/regen_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
