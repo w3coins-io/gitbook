@@ -13,19 +13,19 @@ _**Archway**_ is the best way for developers to launch decentralized apps (dapps
 #### **RPC**
 
 ```
-https://archway-tesnet-rpc.w3coins.io
+https://archway-testnet-rpc.w3coins.io
 ```
 
 #### **gRPC**
 
 ```
-archway-tesnet-grpc.w3coins.io:9980
+archway-testnet-grpc.w3coins.io:9980
 ```
 
 #### **API**
 
 ```
-https://archway-tesnet-api.w3coins.io
+https://archway-testnet-api.w3coins.io
 ```
 
 ####
