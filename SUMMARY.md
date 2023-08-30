@@ -51,6 +51,7 @@
 
 * [Agoric - Devnet](testnet/agoric-devnet/README.md)
   * [Snapshot & State sync](testnet/agoric-devnet/snapshot-and-state-sync.md)
+* [Archway](testnet/archway.md)
 * [Cosmos hub](testnet/cosmos/README.md)
   * [Snapshot & State sync](testnet/cosmos/snapshot-and-state-sync.md)
 * [Empower](testnet/empower/README.md)
