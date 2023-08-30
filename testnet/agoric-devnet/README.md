@@ -17,7 +17,7 @@ https://agoric-devnet-rpc.w3coins.io
 #### **gRPC**
 
 ```
-agoric-devnet-grpc:9970
+agoric-devnet-grpc.w3coins.io:9970
 ```
 
 #### **API**
@@ -45,4 +45,3 @@ mv addrbook.json ~/.agoric/config
 wget -O genesis.json https://s3.eu-central-1.amazonaws.com/w3coins.io/genesis/agoric-testnet/genesis.json --inet4-only
 mv genesis.json ~/.agoric/config
 ```
-

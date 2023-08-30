@@ -19,7 +19,7 @@ https://cosmos-testnet-rpc.w3coins.io
 #### **gRPC**
 
 ```
-cosmos-testnet-grpc:9940
+cosmos-testnet-grpc.w3coins.io:9940
 ```
 
 #### **API**
@@ -34,7 +34,7 @@ https://cosmos-testnet-api.w3coins.io
 91706fd6ec45e38661ba7bb7567fc572b738c3ea@seed-node.w3coins.io:23466
 ```
 
-#### **Addrbook**&#x20;
+#### **Addrbook**
 
 ```
 wget -O addrbook.json https://s3.eu-central-1.amazonaws.com/w3coins.io/addrbook/cosmos-testnet/addrbook.json --inet4-only
@@ -47,6 +47,5 @@ mv addrbook.json ~/.gaia/config
 wget -O genesis.json https://s3.eu-central-1.amazonaws.com/w3coins.io/genesis/cosmos-testnet/genesis.json --inet4-only
 mv genesis.json ~/.gaia/config
 ```
-
 
 ####
