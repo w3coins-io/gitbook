@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-|     Block   |     Age     |   Download  | 
-| ----------- | ----------- | ----------- | 
-|   2932153   |  7 hours | [Snapshot (4.1 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/ojo-testnet/ojo_snapsot_latest.tar.lz4)  |
+| Block   | Age     | Download                                                                                                                 |
+| ------- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2932153 | 6 hours | [Snapshot (4.1 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/ojo-testnet/ojo\_snapsot\_latest.tar.lz4) |
 
 ## State sync
 

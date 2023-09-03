@@ -2,9 +2,9 @@
 
 ## Snapshot
 
-|     Block   |     Age     |   Download  | 
-| ----------- | ----------- | ----------- | 
-|   387434   |  7 hours | [Snapshot (0.4 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/lava-testnet/lava_snapsot_latest.tar.lz4)  |
+| Block  | Age     | Download                                                                                                                   |
+| ------ | ------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 387434 | 6 hours | [Snapshot (0.4 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/lava-testnet/lava\_snapsot\_latest.tar.lz4) |
 
 ## State sync
 
