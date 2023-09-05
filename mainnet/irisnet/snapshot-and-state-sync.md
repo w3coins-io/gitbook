@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   21461517   |  16 hours | [Snapshot (1.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/iris-mainnet/iris_snapsot_latest.tar.lz4)  |
+|   21461517   |  17 hours | [Snapshot (1.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/iris-mainnet/iris_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
