@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   1053212   |  7 hours | [Snapshot (0.9 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/archway-mainnet/archway_snapsot_latest.tar.lz4)  |
+|   1053212   |  8 hours | [Snapshot (0.9 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/archway-mainnet/archway_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
