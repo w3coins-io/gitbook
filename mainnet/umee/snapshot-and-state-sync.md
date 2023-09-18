@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   8375660   |  23 hours | [Snapshot (1.7 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/umee-mainnet/umee_snapsot_latest.tar.lz4)  |
+|   8390385   |  0 hours | [Snapshot (1.7 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/umee-mainnet/umee_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
