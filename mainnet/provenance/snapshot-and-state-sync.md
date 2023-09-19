@@ -4,7 +4,7 @@
 
 | Block   | Age      | Download                                                                                                                     |
 | ------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1756663 | 11 hours | [Snapshot (0.3 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/nolus-mainnet/nolus\_snapsot\_latest.tar.lz4) |
+|   12864374   |  21 hour | [Snapshot (1.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/provenance-mainnet/provenance_snapsot_latest.tar.lz4)  |
 
 ## State sync
 

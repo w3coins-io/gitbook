@@ -1,3 +1,6 @@
+# Потрібно замінити data_link and snap_link 
+# І перемістити в директорію з файлом
+
 
 index_str=${1:-"3s"}
 data_link="https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/akash-mainnet/akash_snapsot_latest.json"
@@ -25,5 +28,5 @@ echo "hour: $time_hour"
 changed_str="|   $height   |  $time_hour hour | [Snapshot ($(printf '%.1f' $memory) GB)]($snap_link)  |"
 
 
-sed -i "$index_str>.*>$changed_str>" snapshot.md
+sed -i "$index_str>.*>$changed_str>" snapshot-and-state-sync.md
 

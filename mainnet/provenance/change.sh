@@ -1,5 +1,5 @@
 
-index_str=${1:-"3s"}
+index_str=${1:-"7s"}
 data_link="https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/provenance-mainnet/provenance_snapsot_latest.json"
 snap_link="https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/provenance-mainnet/provenance_snapsot_latest.tar.lz4"
 memory=$(curl -sI $snap_link | grep -i Content-Length | awk '{print  $2 / (1024^3)}')
@@ -25,5 +25,5 @@ echo "hour: $time_hour"
 changed_str="|   $height   |  $time_hour hour | [Snapshot ($(printf '%.1f' $memory) GB)]($snap_link)  |"
 
 
-sed -i "$index_str>.*>$changed_str>" snapshot.md
+sed -i "$index_str>.*>$changed_str>" snapshot-and-state-sync.md
 
