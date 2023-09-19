@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   5501228   |  2 hours | [Snapshot (2.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/stride-mainnet/stride_snapsot_latest.tar.lz4)  |
+|   5501228   |  3 hours | [Snapshot (2.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/stride-mainnet/stride_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
