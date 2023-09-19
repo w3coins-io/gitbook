@@ -36,8 +36,6 @@
   * [Snapshot & State sync](mainnet/nolus/snapshot-and-state-sync.md)
 * [Osmosis](mainnet/osmosis.md)
 * [Persistence](mainnet/persistence.md)
-* [Provenance](mainnet/provenance/README.md)
-  * [Snapshot & State sync](mainnet/provenance/snapshot-and-state-sync.md)
 * [Quicksilver](mainnet/quicksilver.md)
 * [Regen](mainnet/regen/README.md)
   * [Snapshot & State sync](mainnet/regen/snapshot-and-state-sync.md)
