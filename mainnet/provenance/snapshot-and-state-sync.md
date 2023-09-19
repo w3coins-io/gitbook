@@ -4,7 +4,7 @@
 
 | Block   | Age      | Download                                                                                                                     |
 | ------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-|   12864374   |  22 hour | [Snapshot (1.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/provenance-mainnet/provenance_snapsot_latest.tar.lz4)  |
+|   12864374   |  23 hour | [Snapshot (1.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/provenance-mainnet/provenance_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
