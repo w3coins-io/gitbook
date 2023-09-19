@@ -2,11 +2,11 @@
 
 **Agoric** is a layer-1 blockchain based on the Cosmos network. The main feature of the project is the ability to create smart contracts with the use of JavaScript. It makes the integration of developers from Web2 to Web3 much easier and expands the ecosystem significantly. Agoric's native token is BLD.
 
-### [Stake now!](https://explorer.w3coins.io/AGORIC-DEVNET/staking/agoricvaloper12hpugytp9rkdzs4wry9z2n42qrea5cmlje7ck0)
+### [Stake now!](https://explorer.w3coins.io/Agoric-Devnet/staking/agoricvaloper12hpugytp9rkdzs4wry9z2n42qrea5cmlje7ck0)
 
 ## **Chain explorer**
 
-* [https://explorer.w3coins.io/AGORIC-DEVNET](https://explorer.w3coins.io/AGORIC-DEVNET)
+* [https://explorer.w3coins.io/Agoric-Devnet](https://explorer.w3coins.io/Agoric-Devnet)
 
 #### **RPC**
 

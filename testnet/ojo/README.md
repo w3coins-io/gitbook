@@ -2,11 +2,11 @@
 
 **Ojo** is a decentralized security-first oracle network built to support the Cosmos Ecosystem. Ojo will source price data from a diverse catalog of on and off-chain sources and use advanced security mechanisms to guarantee the integrity of the data it provides.
 
-### [Stake now!](https://explorer.w3coins.io/OJO-TESTNET/staking/ojovaloper1rxxe96lvswxjuf3dgdga3d3enep4jacuzw3cuk)
+### [Stake now!](https://explorer.w3coins.io/Ojo-Testnet/staking/ojovaloper1rxxe96lvswxjuf3dgdga3d3enep4jacuzw3cuk)
 
 ## **Chain explorer**
 
-* [https://explorer.w3coins.io/OJO-TESTNET](https://explorer.w3coins.io/OJO-TESTNET)
+* [https://explorer.w3coins.io/Ojo-Testnet](https://explorer.w3coins.io/Ojo-Testnet)
 
 ## Community Tools and Services <a href="#community-tools-and-services" id="community-tools-and-services"></a>
 
@@ -34,7 +34,7 @@ https://ojo-testnet-api.w3coins.io
 91706fd6ec45e38661ba7bb7567fc572b738c3ea@seed-node.w3coins.io:21666
 ```
 
-#### **Addrbook**&#x20;
+#### **Addrbook**
 
 ```
 wget -O addrbook.json https://s3.eu-central-1.amazonaws.com/w3coins.io/addrbook/ojo-testnet/addrbook.json --inet4-only
@@ -47,4 +47,3 @@ mv addrbook.json ~/.ojo/config
 wget -O genesis.json https://s3.eu-central-1.amazonaws.com/w3coins.io/genesis/ojo-testnet/genesis.json --inet4-only
 mv genesis.json ~/.ojo/config
 ```
-

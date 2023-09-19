@@ -2,11 +2,11 @@
 
 **Cosmos Hub** is the first of thousands of interconnected blockchains that will eventually comprise the Cosmos Network. The primary token of the Cosmos Hub is the ATOM, but the Hub will support many tokens in the future.
 
-### [Stake now!](https://explorer.w3coins.io/COSMOS-TESTNET/staking/cosmosvaloper1uy97y2f8fm7l28tl0mr75pgdaf2rzxsg33zfpq)
+### [Stake now!](https://explorer.w3coins.io/Cosmos-Testnet/staking/cosmosvaloper1uy97y2f8fm7l28tl0mr75pgdaf2rzxsg33zfpq)
 
 ## **Chain explorer**
 
-* [https://explorer.w3coins.io/COSMOS-TESTNET](https://explorer.w3coins.io/COSMOS-TESTNET)
+* [https://explorer.w3coins.io/Cosmos-Testnet](https://explorer.w3coins.io/Cosmos-Testnet/)
 
 ## Community Tools and Services
 

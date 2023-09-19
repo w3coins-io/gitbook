@@ -2,11 +2,11 @@
 
 _**OKP4**_ is the only public layer-1 _blockchain_ designed for coordination of digital assets such as datasets, algorithms, software, storage or computation.
 
-### [Stake now!](https://explorer.w3coins.io/OKP4-TESTNET/staking/okp4valoper1tv3z8z8ptrteuym5vexagxpa90tjp7u4l0qhq9)
+### [Stake now!](https://explorer.w3coins.io/Okp4-Testnet/staking/okp4valoper1tv3z8z8ptrteuym5vexagxpa90tjp7u4l0qhq9)
 
 ## **Chain explorer**
 
-* [https://explorer.w3coins.io/OKP4-TESTNET](https://explorer.w3coins.io/OKP4-TESTNET)
+* [https://explorer.w3coins.io/Okp4-Testnet](https://explorer.w3coins.io/Okp4-Testnet)
 
 ## Community Tools and Services <a href="#community-tools-and-services" id="community-tools-and-services"></a>
 
@@ -34,7 +34,7 @@ https://okp4-testnet-api.w3coins.io
 91706fd6ec45e38661ba7bb7567fc572b738c3ea@seed-node.w3coins.io:17666
 ```
 
-#### **Addrbook**&#x20;
+#### **Addrbook**
 
 ```
 wget -O addrbook.json https://s3.eu-central-1.amazonaws.com/w3coins.io/addrbook/okp4-testnet/addrbook.json --inet4-only
