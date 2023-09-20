@@ -2,7 +2,7 @@
 
 **Nibiru** is a sovereign proof-of-stake blockchain, open-source platform, and member of a family of interconnected blockchains that comprise the Cosmos Ecosystem.
 
-### Stake now!
+### [Stake now!](https://explorer.w3coins.io/Nibiru-Testnet/staking/nibivaloper1e4u765twlg4egt2ucafk960jf97gafaqcfhl0p)
 
 ## **Chain explorer**
 
@@ -42,13 +42,3 @@ https://nibiru-testnet-api.w3coins.io
 wget -O addrbook.json https://s3.eu-central-1.amazonaws.com/w3coins.io/addrbook/nibiru-testnet/addrbook.json --inet4-only
 mv addrbook.json ~/.nibid/config
 ```
-
-## IBC
-
-Nibiru Chain **<-->** Cosmos Hub
-
-Nibiru Chain **<-->** Osmosis
-
-Nibiru Chain **<-->** Empower Chain
-
-Nibiru Chain **<-->** Stargaze
