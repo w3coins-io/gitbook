@@ -35,7 +35,7 @@ https://agoric-api.w3coins.io
 #### **Seed Node**
 
 ```
-91706fd6ec45e38661ba7bb7567fc572b738c3ea@seed-node.w3coins.io:14366
+91706fd6ec45e38661ba7bb7567fc572b738c3ea@seed-node.w3coins.io:14466
 ```
 
 **Addrbook**
