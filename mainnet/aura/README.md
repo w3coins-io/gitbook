@@ -2,7 +2,7 @@
 
 **Aura Network** is the Layer 1 for emerging countries, providing public infrastructure through modular tech stacks. Build and drive Blockchain mass adoption.
 
-### INACTIVE - Stake now! 18-22% Expected reward rate&#x20;
+### INACTIVE - [Stake now!](https://explorer.w3coins.io/aura/staking/auravaloper1fv67nzzp4ksq080ak2el8mxj0z6873gphw2wmv) 18-22% Expected reward rate&#x20;
 
 ## **Chain explorer**
 
