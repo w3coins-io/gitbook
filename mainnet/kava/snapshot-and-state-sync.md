@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   6856761   |  19 hours | [Snapshot (11.1 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/kava-mainnet/kava_snapsot_latest.tar.lz4)  |
+|   6856761   |  20 hours | [Snapshot (11.1 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/kava-mainnet/kava_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
