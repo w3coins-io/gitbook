@@ -1,3 +1,7 @@
+echo -e "\n\n"
+date
+echo -e "\n\n"
+
 eval $(ssh-agent)
 ssh-add /root/.ssh/id_rsa
 git pull
