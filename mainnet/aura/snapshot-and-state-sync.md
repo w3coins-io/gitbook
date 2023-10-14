@@ -4,7 +4,7 @@
 
 | Block   | Age      | Download                                                                                                                         |
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-|   3166608   |  19 hour | [Snapshot (0.3 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/aura-mainnet/aura_snapsot_latest.tar.lz4)  |
+|   3166608   |  20 hour | [Snapshot (0.3 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/aura-mainnet/aura_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
