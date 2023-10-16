@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   13243114   |  23 hours | [Snapshot (2.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/akash-mainnet/akash_snapsot_latest.tar.lz4)  |
+|   13257580   |  0 hours | [Snapshot (2.5 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/akash-mainnet/akash_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
