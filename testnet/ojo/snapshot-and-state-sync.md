@@ -4,7 +4,7 @@
 
 | Block   | Age     | Download                                                                                                                 |
 | ------- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
-|   3905017   |  3 hours | [Snapshot (4.3 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/ojo-testnet/ojo_snapsot_latest.tar.lz4)  |
+|   3905017   |  4 hours | [Snapshot (4.3 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/ojo-testnet/ojo_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
