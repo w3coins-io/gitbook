@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   22976258   |  10 hours | [Snapshot (12.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/band-mainnet/band_snapsot_latest.tar.lz4)  |
+|   22976258   |  11 hours | [Snapshot (12.6 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/band-mainnet/band_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
