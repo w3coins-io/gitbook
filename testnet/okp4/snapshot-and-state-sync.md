@@ -4,7 +4,7 @@
 
 | Block   | Age     | Download                                                                                                                   |
 | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------- |
-|   5185889   |  21 hours | [Snapshot (1.1 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/okp4-testnet/okp4_snapsot_latest.tar.lz4)  |
+|   5185889   |  22 hours | [Snapshot (1.1 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/okp4-testnet/okp4_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
