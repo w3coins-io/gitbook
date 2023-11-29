@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   2376116   |  3 hours | [Snapshot (0.4 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/empower-mainnet/empower_snapsot_latest.tar.lz4)  |
+|   2376116   |  4 hours | [Snapshot (0.4 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/empower-mainnet/empower_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
