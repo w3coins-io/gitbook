@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   53160345   |  10 hours | [Snapshot (12.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/injective-mainnet/injective_snapsot_latest.tar.lz4)  |
+|   53160345   |  11 hours | [Snapshot (12.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/injective-mainnet/injective_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
