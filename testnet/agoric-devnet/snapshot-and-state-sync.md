@@ -4,7 +4,7 @@
 
 | Block   | Age     | Download                                                                                                                        |
 | ------- | ------- | ------------------------------------------------------------------------------------------------------------------------------- |
-|   941493   |  7 hours | [Snapshot (2.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/agoric-testnet/agoric_snapsot_latest.tar.lz4)  |
+|   941493   |  8 hours | [Snapshot (2.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/agoric-testnet/agoric_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
