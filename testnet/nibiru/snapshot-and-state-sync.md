@@ -4,7 +4,7 @@
 
 | Block   | Age      | Download                                                                                                                        |
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- |
-|   4322440   |  22 hours | [Snapshot (4.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/nibiru-testnet/nibiru_snapsot_latest.tar.lz4)  |
+|   4322440   |  23 hours | [Snapshot (4.8 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/nibiru-testnet/nibiru_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
