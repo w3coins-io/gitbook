@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   18553888   |  19 hours | [Snapshot (7.9 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/cosmos-mainnet/cosmos_snapsot_latest.tar.lz4)  |
+|   18553888   |  20 hours | [Snapshot (7.9 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/cosmos-mainnet/cosmos_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
