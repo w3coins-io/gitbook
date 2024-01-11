@@ -60,8 +60,6 @@
   * [Snapshot & State sync](testnet/empower/snapshot-and-state-sync.md)
 * [Lava Network](testnet/lava-network/README.md)
   * [Snapshot & State sync](testnet/lava-network/snapshot-and-state-sync.md)
-* [Nibiru](testnet/nibiru/README.md)
-  * [Snapshot & State sync](testnet/nibiru/snapshot-and-state-sync.md)
 * [OJO](testnet/ojo/README.md)
   * [Snapshot & State sync](testnet/ojo/snapshot-and-state-sync.md)
 * [OKP4](testnet/okp4/README.md)
