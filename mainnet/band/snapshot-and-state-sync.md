@@ -4,7 +4,7 @@
 
 |     Block   |     Age     |   Download  |
 | ----------- | ----------- | ----------- |
-|   25182704   |  5 hours | [Snapshot (13.9 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/band-mainnet/band_snapsot_latest.tar.lz4)  |
+|   25182704   |  6 hours | [Snapshot (13.9 GB)](https://s3.eu-central-1.amazonaws.com/w3coins.io/snapshots/band-mainnet/band_snapsot_latest.tar.lz4)  |
 
 ## State sync
 
